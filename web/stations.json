@@ -1,0 +1,1058 @@
+{
+  "source": "https://railspaapi.shohoz.com/v1.0/web/handshake",
+  "updated": "2026-10-18T08:56:07.507735+00:00",
+  "stations": [
+    {
+      "name": "Abdulpur",
+      "departure": true
+    },
+    {
+      "name": "Aditmari",
+      "departure": false
+    },
+    {
+      "name": "Ahsanganj",
+      "departure": true
+    },
+    {
+      "name": "Akhanagar",
+      "departure": false
+    },
+    {
+      "name": "Akhaura",
+      "departure": true
+    },
+    {
+      "name": "Akkelpur",
+      "departure": true
+    },
+    {
+      "name": "Alamdanga",
+      "departure": true
+    },
+    {
+      "name": "Amirabad",
+      "departure": false
+    },
+    {
+      "name": "Amnura_Bypass",
+      "departure": false
+    },
+    {
+      "name": "Amnura_Junction",
+      "departure": false
+    },
+    {
+      "name": "Arani",
+      "departure": false
+    },
+    {
+      "name": "Ashuganj",
+      "departure": true
+    },
+    {
+      "name": "Atharabari",
+      "departure": false
+    },
+    {
+      "name": "Azampur",
+      "departure": true
+    },
+    {
+      "name": "Azim Nagar",
+      "departure": true
+    },
+    {
+      "name": "Badarganj",
+      "departure": true
+    },
+    {
+      "name": "Badherhat",
+      "departure": false
+    },
+    {
+      "name": "Badiakhali",
+      "departure": false
+    },
+    {
+      "name": "Baharpur",
+      "departure": false
+    },
+    {
+      "name": "Bajitpur",
+      "departure": true
+    },
+    {
+      "name": "Bajra",
+      "departure": false
+    },
+    {
+      "name": "Bamondanga",
+      "departure": true
+    },
+    {
+      "name": "Banani",
+      "departure": true
+    },
+    {
+      "name": "Baramchal",
+      "departure": true
+    },
+    {
+      "name": "Barhatta",
+      "departure": true
+    },
+    {
+      "name": "Barkhata",
+      "departure": true
+    },
+    {
+      "name": "Baura",
+      "departure": false
+    },
+    {
+      "name": "Benapole",
+      "departure": true
+    },
+    {
+      "name": "Bhairab_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Bhanga",
+      "departure": true
+    },
+    {
+      "name": "Bhanga_Junction",
+      "departure": true
+    },
+    {
+      "name": "Bhanugach",
+      "departure": true
+    },
+    {
+      "name": "Bhatiary",
+      "departure": false
+    },
+    {
+      "name": "Bheramara",
+      "departure": true
+    },
+    {
+      "name": "Bhomradah",
+      "departure": false
+    },
+    {
+      "name": "Bhotmari",
+      "departure": false
+    },
+    {
+      "name": "Bhuapur",
+      "departure": true
+    },
+    {
+      "name": "Bidyaganj",
+      "departure": true
+    },
+    {
+      "name": "Biman_Bandar",
+      "departure": true
+    },
+    {
+      "name": "Birampur",
+      "departure": true
+    },
+    {
+      "name": "Birol",
+      "departure": false
+    },
+    {
+      "name": "Boalmari_Bazar",
+      "departure": false
+    },
+    {
+      "name": "Bogura",
+      "departure": true
+    },
+    {
+      "name": "Bolakhal",
+      "departure": false
+    },
+    {
+      "name": "Bonar_Para",
+      "departure": true
+    },
+    {
+      "name": "Boral_Bridge",
+      "departure": true
+    },
+    {
+      "name": "Borashi",
+      "departure": false
+    },
+    {
+      "name": "Brahmanbaria",
+      "departure": true
+    },
+    {
+      "name": "Burimari",
+      "departure": true
+    },
+    {
+      "name": "Chakaria",
+      "departure": true
+    },
+    {
+      "name": "Chandpur",
+      "departure": true
+    },
+    {
+      "name": "Chandpur_Court",
+      "departure": true
+    },
+    {
+      "name": "Chandradighalia",
+      "departure": false
+    },
+    {
+      "name": "Chapainawabganj",
+      "departure": true
+    },
+    {
+      "name": "Chapta",
+      "departure": false
+    },
+    {
+      "name": "Chatmohar",
+      "departure": true
+    },
+    {
+      "name": "Chattogram",
+      "departure": true
+    },
+    {
+      "name": "Chilahati",
+      "departure": true
+    },
+    {
+      "name": "Chirirbandar",
+      "departure": true
+    },
+    {
+      "name": "Chitoshi_Road",
+      "departure": false
+    },
+    {
+      "name": "Choto Bahirbag",
+      "departure": false
+    },
+    {
+      "name": "Choumuhani",
+      "departure": true
+    },
+    {
+      "name": "Chuadanga",
+      "departure": true
+    },
+    {
+      "name": "Chulkati_Bazar",
+      "departure": false
+    },
+    {
+      "name": "Cox's Bazar",
+      "departure": true
+    },
+    {
+      "name": "Cumilla",
+      "departure": true
+    },
+    {
+      "name": "Darshana_Halt",
+      "departure": true
+    },
+    {
+      "name": "Dashuria",
+      "departure": false
+    },
+    {
+      "name": "Daulatpur",
+      "departure": false
+    },
+    {
+      "name": "Dewanganj_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Dhaka",
+      "departure": true
+    },
+    {
+      "name": "Dhaka_Cantonment",
+      "departure": true
+    },
+    {
+      "name": "Dhalarchar",
+      "departure": false
+    },
+    {
+      "name": "Dinajpur",
+      "departure": true
+    },
+    {
+      "name": "Dohazari",
+      "departure": true
+    },
+    {
+      "name": "Domar",
+      "departure": true
+    },
+    {
+      "name": "Dublia",
+      "departure": false
+    },
+    {
+      "name": "Dulahazara",
+      "departure": true
+    },
+    {
+      "name": "Faridpur",
+      "departure": true
+    },
+    {
+      "name": "Feni",
+      "departure": true
+    },
+    {
+      "name": "Fulbari",
+      "departure": true
+    },
+    {
+      "name": "Gachihata",
+      "departure": true
+    },
+    {
+      "name": "Gafargaon",
+      "departure": true
+    },
+    {
+      "name": "Gaibandha",
+      "departure": true
+    },
+    {
+      "name": "Gobra",
+      "departure": false
+    },
+    {
+      "name": "GOMDANDI",
+      "departure": true
+    },
+    {
+      "name": "Gopalganj",
+      "departure": false
+    },
+    {
+      "name": "Gouripur_Myn",
+      "departure": true
+    },
+    {
+      "name": "Gunabati",
+      "departure": false
+    },
+    {
+      "name": "Hajiganj",
+      "departure": true
+    },
+    {
+      "name": "Haldibari",
+      "departure": false
+    },
+    {
+      "name": "Harashpur",
+      "departure": true
+    },
+    {
+      "name": "HARBANG",
+      "departure": false
+    },
+    {
+      "name": "Hasanpur",
+      "departure": true
+    },
+    {
+      "name": "Hatibandha",
+      "departure": true
+    },
+    {
+      "name": "Hemnagar",
+      "departure": false
+    },
+    {
+      "name": "Hi-Tech City",
+      "departure": false
+    },
+    {
+      "name": "Hili",
+      "departure": false
+    },
+    {
+      "name": "Ibrahimabad",
+      "departure": true
+    },
+    {
+      "name": "Ishwardi",
+      "departure": true
+    },
+    {
+      "name": "Ishwardi Bypass",
+      "departure": true
+    },
+    {
+      "name": "ISLAMABAD",
+      "departure": true
+    },
+    {
+      "name": "Islampur_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Jaforshahi",
+      "departure": false
+    },
+    {
+      "name": "Jagannathgonj_Bazar",
+      "departure": false
+    },
+    {
+      "name": "Jamalpur_Town",
+      "departure": true
+    },
+    {
+      "name": "Jamtail",
+      "departure": true
+    },
+    {
+      "name": "Janali_Hat",
+      "departure": true
+    },
+    {
+      "name": "Jashore",
+      "departure": true
+    },
+    {
+      "name": "Jhikargacha",
+      "departure": true
+    },
+    {
+      "name": "Joydebpur",
+      "departure": true
+    },
+    {
+      "name": "Joypurhat",
+      "departure": true
+    },
+    {
+      "name": "Kakonhat",
+      "departure": false
+    },
+    {
+      "name": "Kalukhali",
+      "departure": true
+    },
+    {
+      "name": "Kanchan_Junction",
+      "departure": false
+    },
+    {
+      "name": "Kankina",
+      "departure": false
+    },
+    {
+      "name": "Kaoraid",
+      "departure": false
+    },
+    {
+      "name": "Kashiani",
+      "departure": true
+    },
+    {
+      "name": "Kashinathpur",
+      "departure": false
+    },
+    {
+      "name": "Katakhali",
+      "departure": false
+    },
+    {
+      "name": "Kaunia",
+      "departure": true
+    },
+    {
+      "name": "Kawgaon",
+      "departure": false
+    },
+    {
+      "name": "Kendua_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Keraniganj",
+      "departure": false
+    },
+    {
+      "name": "Khatra",
+      "departure": false
+    },
+    {
+      "name": "Khoksha",
+      "departure": true
+    },
+    {
+      "name": "Kholahati",
+      "departure": false
+    },
+    {
+      "name": "Khulna",
+      "departure": true
+    },
+    {
+      "name": "Kishorganj",
+      "departure": true
+    },
+    {
+      "name": "Kismat",
+      "departure": false
+    },
+    {
+      "name": "Kolkata",
+      "departure": true
+    },
+    {
+      "name": "Kotchandpur",
+      "departure": true
+    },
+    {
+      "name": "Kulaura",
+      "departure": true
+    },
+    {
+      "name": "Kuliarchar",
+      "departure": true
+    },
+    {
+      "name": "Kumarkhali",
+      "departure": true
+    },
+    {
+      "name": "Kumira",
+      "departure": false
+    },
+    {
+      "name": "Kurigram",
+      "departure": true
+    },
+    {
+      "name": "Kushtia_Court",
+      "departure": true
+    },
+    {
+      "name": "Laksam",
+      "departure": true
+    },
+    {
+      "name": "Lalmonirhat",
+      "departure": true
+    },
+    {
+      "name": "LOHAGARA",
+      "departure": true
+    },
+    {
+      "name": "Lohagora",
+      "departure": true
+    },
+    {
+      "name": "Lokmanpur",
+      "departure": false
+    },
+    {
+      "name": "Lolitnagar",
+      "departure": false
+    },
+    {
+      "name": "Madhnagar",
+      "departure": true
+    },
+    {
+      "name": "Madhukhali",
+      "departure": false
+    },
+    {
+      "name": "Mahendranagar",
+      "departure": false
+    },
+    {
+      "name": "Maheshpur",
+      "departure": false
+    },
+    {
+      "name": "Mahimaganj",
+      "departure": false
+    },
+    {
+      "name": "Maijdi Court",
+      "departure": true
+    },
+    {
+      "name": "Maijgaon",
+      "departure": true
+    },
+    {
+      "name": "Majhgram",
+      "departure": false
+    },
+    {
+      "name": "Manikkhali",
+      "departure": true
+    },
+    {
+      "name": "Manmathapur",
+      "departure": false
+    },
+    {
+      "name": "Mawa",
+      "departure": true
+    },
+    {
+      "name": "Meher",
+      "departure": true
+    },
+    {
+      "name": "Melandah_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Methikanda",
+      "departure": true
+    },
+    {
+      "name": "Mirbagh",
+      "departure": false
+    },
+    {
+      "name": "Mirpur",
+      "departure": true
+    },
+    {
+      "name": "Mirzapur",
+      "departure": false
+    },
+    {
+      "name": "Modhu_Road",
+      "departure": false
+    },
+    {
+      "name": "Mohammad Nagar",
+      "departure": false
+    },
+    {
+      "name": "Mohanganj",
+      "departure": true
+    },
+    {
+      "name": "Mongalpur",
+      "departure": false
+    },
+    {
+      "name": "Mongla",
+      "departure": false
+    },
+    {
+      "name": "Montola",
+      "departure": true
+    },
+    {
+      "name": "Mubarakganj",
+      "departure": true
+    },
+    {
+      "name": "Muksudpur",
+      "departure": true
+    },
+    {
+      "name": "Mukundapur",
+      "departure": true
+    },
+    {
+      "name": "Muladhuli",
+      "departure": false
+    },
+    {
+      "name": "Mymensingh",
+      "departure": true
+    },
+    {
+      "name": "Nachole",
+      "departure": true
+    },
+    {
+      "name": "Nagarkanda",
+      "departure": false
+    },
+    {
+      "name": "Naliagram",
+      "departure": false
+    },
+    {
+      "name": "Nandangachi",
+      "departure": false
+    },
+    {
+      "name": "Nandina",
+      "departure": true
+    },
+    {
+      "name": "Nangolkot",
+      "departure": true
+    },
+    {
+      "name": "Narail",
+      "departure": true
+    },
+    {
+      "name": "Narayanganj",
+      "departure": false
+    },
+    {
+      "name": "Narsingdi",
+      "departure": true
+    },
+    {
+      "name": "Narundi",
+      "departure": true
+    },
+    {
+      "name": "Natherpetua",
+      "departure": false
+    },
+    {
+      "name": "Natore",
+      "departure": true
+    },
+    {
+      "name": "Nayaniburuj",
+      "departure": false
+    },
+    {
+      "name": "Nayapara",
+      "departure": true
+    },
+    {
+      "name": "Netrakona",
+      "departure": true
+    },
+    {
+      "name": "New Jalpaiguri",
+      "departure": true
+    },
+    {
+      "name": "Nilphamari",
+      "departure": true
+    },
+    {
+      "name": "Noakhali",
+      "departure": true
+    },
+    {
+      "name": "Noapara",
+      "departure": true
+    },
+    {
+      "name": "Pabna",
+      "departure": true
+    },
+    {
+      "name": "Pachuria",
+      "departure": false
+    },
+    {
+      "name": "Padma",
+      "departure": true
+    },
+    {
+      "name": "Padmabila",
+      "departure": false
+    },
+    {
+      "name": "Pahartali",
+      "departure": false
+    },
+    {
+      "name": "Paksey",
+      "departure": true
+    },
+    {
+      "name": "Panchagarh",
+      "departure": true
+    },
+    {
+      "name": "Panchbibi",
+      "departure": true
+    },
+    {
+      "name": "Pangsha",
+      "departure": true
+    },
+    {
+      "name": "Parbatipur",
+      "departure": true
+    },
+    {
+      "name": "Patgram",
+      "departure": true
+    },
+    {
+      "name": "Patiya",
+      "departure": true
+    },
+    {
+      "name": "Phultala",
+      "departure": false
+    },
+    {
+      "name": "Pirgacha",
+      "departure": true
+    },
+    {
+      "name": "Pirganj",
+      "departure": true
+    },
+    {
+      "name": "Piyarpur",
+      "departure": true
+    },
+    {
+      "name": "Poradaha",
+      "departure": true
+    },
+    {
+      "name": "Pukuria",
+      "departure": false
+    },
+    {
+      "name": "Quasba",
+      "departure": true
+    },
+    {
+      "name": "Raghabpur",
+      "departure": false
+    },
+    {
+      "name": "Rajbari",
+      "departure": true
+    },
+    {
+      "name": "Rajshahi",
+      "departure": true
+    },
+    {
+      "name": "Rajshahi_Court",
+      "departure": false
+    },
+    {
+      "name": "Ramu",
+      "departure": true
+    },
+    {
+      "name": "Rangpur",
+      "departure": true
+    },
+    {
+      "name": "Rohanpur",
+      "departure": true
+    },
+    {
+      "name": "Ruhia",
+      "departure": true
+    },
+    {
+      "name": "Safdarpur",
+      "departure": false
+    },
+    {
+      "name": "Saidpur",
+      "departure": true
+    },
+    {
+      "name": "Santahar",
+      "departure": true
+    },
+    {
+      "name": "Sararchar",
+      "departure": true
+    },
+    {
+      "name": "Sardah_Road",
+      "departure": true
+    },
+    {
+      "name": "Sarishabari",
+      "departure": true
+    },
+    {
+      "name": "Sathia_Rajapur",
+      "departure": false
+    },
+    {
+      "name": "Satkania",
+      "departure": true
+    },
+    {
+      "name": "Setabganj",
+      "departure": true
+    },
+    {
+      "name": "SH M Monsur Ali",
+      "departure": true
+    },
+    {
+      "name": "Shahaji_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Shahrasti",
+      "departure": false
+    },
+    {
+      "name": "Shahtali",
+      "departure": false
+    },
+    {
+      "name": "Shaistaganj",
+      "departure": true
+    },
+    {
+      "name": "Shamshernagar",
+      "departure": true
+    },
+    {
+      "name": "Shashidal",
+      "departure": false
+    },
+    {
+      "name": "Shibchar",
+      "departure": true
+    },
+    {
+      "name": "Shibganj",
+      "departure": false
+    },
+    {
+      "name": "Sholoshohor",
+      "departure": true
+    },
+    {
+      "name": "Shyamgonj",
+      "departure": true
+    },
+    {
+      "name": "Shyampur",
+      "departure": false
+    },
+    {
+      "name": "Singia",
+      "departure": true
+    },
+    {
+      "name": "Sirajganj_Bazar",
+      "departure": true
+    },
+    {
+      "name": "Sirajganjraipur",
+      "departure": false
+    },
+    {
+      "name": "Sitlai",
+      "departure": false
+    },
+    {
+      "name": "Sonaimuri",
+      "departure": true
+    },
+    {
+      "name": "Sonatola",
+      "departure": true
+    },
+    {
+      "name": "SOYDABAD",
+      "departure": false
+    },
+    {
+      "name": "Sreemangal",
+      "departure": true
+    },
+    {
+      "name": "Sreenagar",
+      "departure": false
+    },
+    {
+      "name": "Sreepur",
+      "departure": false
+    },
+    {
+      "name": "Sultanpur",
+      "departure": false
+    },
+    {
+      "name": "Sylhet",
+      "departure": true
+    },
+    {
+      "name": "Talma",
+      "departure": false
+    },
+    {
+      "name": "Talora",
+      "departure": false
+    },
+    {
+      "name": "Tangail",
+      "departure": true
+    },
+    {
+      "name": "Tantibandha",
+      "departure": false
+    },
+    {
+      "name": "Tarakandi",
+      "departure": true
+    },
+    {
+      "name": "Tebunia",
+      "departure": false
+    },
+    {
+      "name": "Teesta_Junction",
+      "departure": false
+    },
+    {
+      "name": "Thakrokona",
+      "departure": false
+    },
+    {
+      "name": "Thakurgaon_Road",
+      "departure": true
+    },
+    {
+      "name": "Tongi",
+      "departure": false
+    },
+    {
+      "name": "Tushbhandar",
+      "departure": true
+    },
+    {
+      "name": "Ullapara",
+      "departure": true
+    }
+  ]
+}

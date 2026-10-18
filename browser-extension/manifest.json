@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Railway Companion — Session Connection",
+  "version": "1.0.0",
+  "description": "Sync your signed-in Bangladesh Railway session with Railway Companion on this PC.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://eticket.railway.gov.bd/*", "http://127.0.0.1/*"],
+  "background": {"service_worker": "worker.js"},
+  "content_scripts": [{"matches": ["https://eticket.railway.gov.bd/*"], "js": ["session.js"], "run_at": "document_idle", "all_frames": false}],
+  "action": {"default_popup": "popup.html", "default_title": "Railway Companion session connection"}
+}

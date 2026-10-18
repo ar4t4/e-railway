@@ -1,0 +1,30 @@
+services:
+  companion:
+    build: .
+    restart: unless-stopped
+    environment:
+      RC_PUBLIC_URL: https://${DOMAIN:?Set DOMAIN in .env}
+      RC_SETUP_TOKEN: ${RC_SETUP_TOKEN:?Set a long random setup token in .env}
+      RC_ENCRYPTION_KEY: ${RC_ENCRYPTION_KEY:?Generate a Fernet key and set it in .env}
+      RC_SECURE_COOKIES: "1"
+    volumes:
+      - companion_data:/data
+    networks: [companion]
+  proxy:
+    image: caddy:2
+    restart: unless-stopped
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN in .env}
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [companion]
+    depends_on: [companion]
+volumes:
+  companion_data:
+  caddy_data:
+  caddy_config:
+networks:
+  companion:
